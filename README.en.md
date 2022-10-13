@@ -1,7 +1,7 @@
 ### Welcome 👋🏻
 
-[![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/mautinobruno/mautinobruno/blob/main/README.md)
-[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/mautinobruno/mautinobruno/blob/main/README.en.md)
+[![es](https://img.shields.io/badge/lang-es-red.svg?style=for-the-badge)](https://github.com/mautinobruno/mautinobruno/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg?style=for-the-badge)](https://github.com/mautinobruno/mautinobruno/blob/main/README.en.md)
 
 ![](https://komarev.com/ghpvc/?username=mautinobruno&style=for-the-badge&label=Profile+visits&color=lightgray)
 
