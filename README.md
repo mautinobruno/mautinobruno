@@ -21,7 +21,7 @@ Mis hobbies son leer libros, especialmente de religión y metafísica, meditar y
 ## Otras cosas 📰
 [![GitHub Streak](https://streak-stats.demolab.com?user=mautinobruno&theme=tokyonight&border_radius=0&locale=es)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mautinobruno&theme=tokyonight&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mautinobruno&theme=tokyonight&locale=es&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
 
 Si necesitas contactarme siempre estoy disponible por MP. 📥
 
