@@ -10,19 +10,21 @@ Puedes contactarme en los enlaces que dejo abajo, hablo Español **[es-MX]**, In
 
 Mis hobbies son leer libros, especialmente de religión y metafísica, meditar y trotar. Aunque me interesan otras cosas como la tecnología, los computadores y las matematicas. 📘
 
-## Lenguajes
+## Lenguajes 👨‍💻
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 
-## Contacto
+## Contacto 📧
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/broxbruno12)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomautino)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mautino.bruno/)
 
-## Otras cosas
+## Otras cosas 📰
 [![GitHub Streak](https://streak-stats.demolab.com?user=mautinobruno&theme=tokyonight&border_radius=0&locale=es)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mautinobruno&theme=tokyonight&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
-Si necesitas contactarme siempre estoy disponible por MP.
+Si necesitas contactarme siempre estoy disponible por MP. 📥
+
 ---
 >Low-level programming is good for the programmer's soul.
 
