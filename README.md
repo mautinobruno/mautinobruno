@@ -1,6 +1,6 @@
 ### Bienvenido 👋🏻
 
-![](https://komarev.com/ghpvc/?username=mautinobruno&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=mautinobruno&style=for-the-badge&label=Visitas+al+perfil&color=lightgray)
 
 Hola, soy Bruno Mautino. Soy un estudiante de Ingeniería de Software en la [UNITEC](https://www.unitec.mx/) interesado en cualquier cosa que tenga numeros de por medio. Nací en la Araucanía, Chile pero ahora estoy residiendo en Tlaxcala, México. 🌎
 
