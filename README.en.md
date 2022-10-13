@@ -13,19 +13,19 @@ You can contact me in the links that I leave below, I speak Spanish **[es-MX]**,
 
 My hobbies are reading books, especially about religion and metaphysics, meditating and jogging. Although I am interested in other things such as technology, computers and mathematics. 📘
 
-## Languages 🧮
+### Languages 🧮
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 
-## Contact 📧
+### Contact 📧
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincenzomautinooliva@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mautino.bruno/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomautino)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/broxbruno12)
 
-## Other things 📰
-[![GitHub Streak](https://streak-stats.demolab.com?user=mautinobruno&theme=tokyonight&border_radius=0&locale=en)](https://git.io/streak-stats)
+You can also check my [Bio Link](https://brunomautino.bio.link/) to see other social networks that I have.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mautinobruno&theme=tokyonight&locale=en&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
+### More information
+![Metrics](https://metrics.lecoq.io/mautinobruno?template=classic&base.metadata=0&isocalendar=1&languages=1&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6&config.timezone=America%2FMexico_City)
 
 If you need to contact me I am always available by DMs! 📥
 
