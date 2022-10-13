@@ -1,5 +1,8 @@
 ### Bienvenido 👋🏻
 
+[![es](https://img.shields.io/badge/lang-es-red.svg)](https://github.com/mautinobruno/mautinobruno/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/mautinobruno/mautinobruno/blob/main/README.en.md)
+
 ![](https://komarev.com/ghpvc/?username=mautinobruno&style=for-the-badge&label=Visitas+al+perfil&color=lightgray)
 
 Hola, soy Bruno Mautino. Soy un estudiante de Ingeniería de Software en la [UNITEC](https://www.unitec.mx/) interesado en cualquier cosa que tenga numeros de por medio. Nací en la Araucanía, Chile pero ahora estoy residiendo en Tlaxcala, México. 🌎
