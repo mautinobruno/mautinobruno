@@ -24,7 +24,7 @@ Mis hobbies son leer libros, especialmente de religión y metafísica, meditar y
 
 Tambien puedes checar mi [Bio Link](https://brunomautino.bio.link/) para ver otras redes sociales que tengo.
 
-### Más información (en Inglés)
+### Estadisticas 📊
 ![Metrics](https://metrics.lecoq.io/mautinobruno?template=classic&base.metadata=0&isocalendar=1&languages=1&introduction=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction=false&introduction.title=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=6&config.timezone=America%2FMexico_City)
 
 ¡Si necesitas contactarme siempre estoy disponible por MP! 📥
