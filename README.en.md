@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mautinobruno&style=for-the-badge&label=Profile+visits&color=lightgray)
 
-Hi, I'm Bruno Mautino. I am a Software Engineering student at [UNITEC](https://www.unitec.mx/) interested in anything that has numbers involved. I was born in Araucanía, Chile but now I am living in Tlaxcala, México. 🌎
+Hi, I'm Bruno Mautino. I am a Software Engineering student at [UNITEC](https://www.unitec.mx/) interested in anything that has numbers involved.
 
 I program mainly in PHP because it is the language that interests me the most and most of the software of sites that I usually work with use that language, but soon I will learn more to increase my job opportunities. 💻
 
@@ -18,9 +18,7 @@ My hobbies are reading books, especially about religion and metaphysics, meditat
 
 ### Contact 📧
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincenzomautinooliva@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mautino.bruno/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunomautino)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/broxbruno12)
 
 You can also check my [Bio Link](https://brunomautino.bio.link/) to see other social networks that I have.
 
